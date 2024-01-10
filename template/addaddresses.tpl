@@ -6,7 +6,7 @@ State: <input type="text" name="state"><br>
 Zip Code: <input type="text" name="zip"><br>
 Country: <input type="text" name="country"><br>
 Notes <br>
-<textarea type="text" name="notes">Add any notes that might help others</textarea><br>
+<textarea type="text" name="notes" placeholder="Add any notes that might help others"></textarea><br>
 
 <!--End Form-->
 <input type="submit">

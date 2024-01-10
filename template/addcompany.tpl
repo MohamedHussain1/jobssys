@@ -18,7 +18,7 @@ Select Client:
      </select><br>
 <br>
 Notes <br>
-<textarea type="text" name="notes">Add any notes that might help others</textarea><br>
+<textarea type="text" name="notes" placeholder="Add any notes that might help others" ></textarea><br>
 <!--End Form-->
 <input type="submit">
 </form>
