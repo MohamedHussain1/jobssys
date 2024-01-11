@@ -12,7 +12,7 @@ Notes <br>
 <input type="submit">
 </form>
 
-<P>Addresses List</P>
+<P>List of Addresses :</P>
 <table class="listing">
     <tr>
       <td><b>ID</b></td>
